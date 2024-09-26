@@ -1,0 +1,1 @@
+# Database-to-ChatGPT-Query-Automator-Selenium
